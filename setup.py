@@ -40,11 +40,11 @@ class PyPrepTestsCommand(distutils.cmd.Command):
         return p.returncode
 
 
-setup(name="haystack",
-      version="0.42",
+setup(name="python-haystack",
+      version="0.43",
       description="Search C Structures in a process' memory",
       long_description=open("README.rst").read(),
-      url="http://packages.python.org/haystack/",
+      url="http://packages.python.org/python-haystack/",
       download_url="http://github.com/trolldbois/python-haystack/tree/master",
       license="GPL",
       classifiers=[

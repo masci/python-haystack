@@ -15,11 +15,11 @@ Install a virtual environment::
 
 Install python-haystack::
 
-  (v_haystack) $ pip install haystack
+  (v_haystack) $ pip install python-haystack
 
 Keeping it up to date ::
 
-  (v_haystack) $ pip install haystack --upgrade
+  (v_haystack) $ pip install python-haystack --upgrade
 
 Clone+Install from GitHub
 -------------------------
@@ -43,4 +43,3 @@ Keeping it up to date ::
 
   (v_haystack) $ cd python-haystack
   (v_haystack) ~/python-haystack$ git pull
-
